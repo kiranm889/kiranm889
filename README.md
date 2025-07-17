@@ -30,26 +30,6 @@
 
 ---
 
-### 🔥 My GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kiranm889&show_icons=true&theme=radical" alt="kiranm889 stats" />
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kiranm889&theme=radical" alt="kiranm889 streak" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kiranm889&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
----
-
-### 🏆 GitHub Trophy Cabinet
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kiranm889&theme=monokai&row=1&column=7" />
-</p>
-
----
-
 ### 🚀 Featured Projects
 <!-- Add links to pinned repos or cool projects -->
 
