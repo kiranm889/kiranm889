@@ -21,7 +21,7 @@
 
 📫 How to reach me:  
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kiranm889/)  
-✉️ Email: kiranm889@gmail.com
+✉️ Email: kiranm2636@gmail.com
 
 📌 Fun facts:
 - I love learning and solving real-world problems.
