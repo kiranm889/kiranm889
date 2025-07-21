@@ -16,7 +16,7 @@
 - **Backend:** Spring Boot, REST APIs
 - **Frontend:** Angular, HTML, CSS, Bootstrap
 - **Tools & DevOps:** Git, Maven, Jenkins, Postman
-- **Databases:** MySQL, Oracle
+- **Databases:** MySQL, SQL, SQL Server
 - **Cloud:** Basics of AWS
 
 📫 How to reach me:  
